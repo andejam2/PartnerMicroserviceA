@@ -45,7 +45,7 @@ If Invalid:
 ```json
 {
   "status": "error",
-  "message": "Invalid trip type, Must be one of: beach, business, city, camping."
+  "message": "Invalid trip type. Must be one of: beach, business, city, camping."
 }
 ```
 
