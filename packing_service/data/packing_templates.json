@@ -1,0 +1,14 @@
+{
+  "beach": [
+    "Swimsuit", "Sunscreen", "Sunglasses", "Flip flops", "Beach towel", "Hat", "Water bottle"
+  ],
+  "business": [
+    "Business attire", "Laptop", "Charger", "Notebook", "Pens", "Toiletries", "Dress shoes"
+  ],
+  "city": [
+    "Comfortable walking shoes", "Guidebook", "Map", "Umbrella", "Daypack", "Phone charger", "Reusable water bottle"
+  ],
+  "camping": [
+    "Tent", "Sleeping bag", "Flashlight", "Bug spray", "Portable stove", "Map", "First aid kit"
+  ]
+}
